@@ -3,3 +3,5 @@ Hello World!
 This is my first code in a text file...
 
 This is the configuration respective to the VMs size.
+
+Changing the VM OS to Ubuntu.
